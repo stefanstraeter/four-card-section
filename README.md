@@ -12,12 +12,12 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/stefanstraeter/Four_card_feature_section.git)
-- Live Site URL: [Live Demo](https://stefanstraeter.github.io/Four_card_feature_section/)
+- Solution URL: [GitHub Repository](https://github.com/stefanstraeter/four-card-section)
+- Live Site URL: [Live Demo](https://stefanstraeter.github.io/four-card-section/)
 
 ### Screenshot
-<img width="1074" height="701" alt="Four Card Feature Section Solution" src="https://github.com/user-attachments/assets/51475d5c-a4d2-4f48-8919-62bc59dfcaac" />
 
+<img width="1074" height="701" alt="Four Card Feature Section Solution" src="https://github.com/user-attachments/assets/51475d5c-a4d2-4f48-8919-62bc59dfcaac" />
 
 ## My process
 
